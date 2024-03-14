@@ -2,6 +2,7 @@
 - 👀 I’m interested in learning new things
 - 😔 Learning react was a mistake, there is no end insight to the blazing fast frameworks
 - 🌵 Now learning Android development with Kotlin & Compose 💀
+- 😑 Born to code with Scratch forced to use C# with .net 4.8
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stanislavnastasiu-dev&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
